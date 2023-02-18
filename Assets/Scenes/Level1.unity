@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 716298511}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -320,6 +324,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1285326098}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3573617620438031511, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Name
       value: brick
@@ -382,6 +390,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2032812305}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -448,6 +460,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1032517027}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -514,6 +530,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1285326098}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3573617620438031511, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Name
       value: brick
@@ -634,6 +654,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 716298511}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -766,6 +790,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1285326098}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3573617620438031511, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Name
       value: brick
@@ -828,6 +856,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1032517027}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -960,6 +992,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1032517027}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1196,6 +1232,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 716298511}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1262,6 +1302,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1285326098}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3573617620438031511, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Name
       value: brick
@@ -1362,6 +1406,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2032812305}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1431,6 +1479,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1043417377}
   - component: {fileID: 1043417376}
+  - component: {fileID: 1043417378}
   m_Layer: 0
   m_Name: bottomwall
   m_TagString: Untagged
@@ -1479,6 +1528,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1043417378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1043417375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c6c121d7426240bb8c01f94a1e66452, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1057103585
 GameObject:
   m_ObjectHideFlags: 0
@@ -1527,6 +1588,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 30
+  maxbounceAngle: 75
 --- !u!61 &1057103588
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1565,15 +1627,15 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_Mass: 0.5
+  m_LinearDrag: 5
+  m_AngularDrag: 0
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 6
 --- !u!212 &1057103590
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1638,6 +1700,7 @@ GameObject:
   - component: {fileID: 1128837897}
   - component: {fileID: 1128837896}
   - component: {fileID: 1128837895}
+  - component: {fileID: 1128837899}
   m_Layer: 0
   m_Name: ball
   m_TagString: Untagged
@@ -1654,7 +1717,7 @@ CircleCollider2D:
   m_GameObject: {fileID: 1128837894}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 5410ff9938a8247848a3a77decbb3b19, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1675,13 +1738,13 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_AngularDrag: 0
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &1128837897
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1749,6 +1812,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1128837899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1128837894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7ad8bd00d4dd41739fba5a41f59921e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 700
 --- !u!1001 &1133466975
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1756,6 +1832,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 716298511}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1946,6 +2026,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1285326098}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3573617620438031511, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Name
       value: brick
@@ -2008,6 +2092,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 716298511}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2148,6 +2236,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 716298511}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2214,6 +2306,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1032517027}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2280,6 +2376,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1285326098}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3573617620438031511, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Name
       value: brick
@@ -2342,6 +2442,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2032812305}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2408,6 +2512,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1032517027}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2474,6 +2582,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2032812305}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2540,6 +2652,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2032812305}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2728,6 +2844,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2032812305}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2794,6 +2914,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 716298511}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2860,6 +2984,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2032812305}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2926,6 +3054,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1032517027}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2992,6 +3124,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1032517027}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 197603639049985554, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -3096,6 +3232,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1285326098}
     m_Modifications:
+    - target: {fileID: -8356343953999874638, guid: 50655429defd2433f8298727bbfc3220, type: 3}
+      propertyPath: states.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3573617620438031511, guid: 50655429defd2433f8298727bbfc3220, type: 3}
       propertyPath: m_Name
       value: brick
